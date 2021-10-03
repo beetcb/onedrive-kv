@@ -1,0 +1,29 @@
+{
+  "name": "onedrive-kv",
+  "version": "0.0.0",
+  "type": "module",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "private": true,
+  "description": "KV Storage Made Easy With OneDrive",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beetcb/onedrive-kv.git"
+  },
+  "keywords": [
+    "KV",
+    "db",
+    "onedrive"
+  ],
+  "author": "beetcb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beetcb/onedrive-kv/issues"
+  },
+  "homepage": "https://github.com/beetcb/onedrive-kv#readme"
+}
